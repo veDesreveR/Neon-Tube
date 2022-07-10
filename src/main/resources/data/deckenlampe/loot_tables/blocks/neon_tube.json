@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "deckenlampe:ceiling_lamp"
+          "name": "deckenlampe:neon_tube"
         }
       ],
       "conditions": [
