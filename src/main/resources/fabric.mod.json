@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "deckenlampe",
+  "version": "${version}",
+
+  "name": "Deckenlampe",
+  "description": "Die Huebinische Deckenlampe",
+  "authors": [
+    "veDesreveR"
+  ],
+
+  "license": "CC0-1.0",
+  "icon": "assets/deckenlampe/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.vedesrever.deckenlampe.DeckenlampenMod"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.18.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

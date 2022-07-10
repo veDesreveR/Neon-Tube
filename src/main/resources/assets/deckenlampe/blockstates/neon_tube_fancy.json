@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "deckenlampe:block/neon_tube_fancy",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "deckenlampe:block/neon_tube_fancy",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "deckenlampe:block/neon_tube_fancy",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "deckenlampe:block/neon_tube_fancy",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "deckenlampe:block/neon_tube_fancy"
+    },
+    "facing=west": {
+      "model": "deckenlampe:block/neon_tube_fancy",
+      "x": 90,
+      "y": 270
+    }
+  }
+}
